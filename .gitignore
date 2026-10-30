@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Build and TypeScript output
+dist/
+*.tsbuildinfo
+
+# Python backend files
+src/*.py
+
+# Unexpected local file
+e•
